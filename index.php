@@ -1,3 +1,3 @@
 <?php
-echo 'Hello6'."\n";
+echo 'Hello 1'."\n";
 echo getenv('TEST_ENV');
